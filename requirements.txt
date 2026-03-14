@@ -1,0 +1,4 @@
+vaderSentiment
+pyttsx3
+fastapi
+uvicorn
